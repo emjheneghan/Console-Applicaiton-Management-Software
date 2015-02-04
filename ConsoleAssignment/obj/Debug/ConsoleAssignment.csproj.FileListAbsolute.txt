@@ -1,0 +1,36 @@
+C:\Users\Emma Jane\Desktop\ConsoleAssignment\ConsoleAssignment\bin\Debug\ConsoleAssignment.exe.config
+C:\Users\Emma Jane\Desktop\ConsoleAssignment\ConsoleAssignment\obj\Debug\ConsoleAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Emma Jane\Desktop\ConsoleAssignment\ConsoleAssignment\bin\Debug\ConsoleAssignment.exe
+C:\Users\Emma Jane\Desktop\ConsoleAssignment\ConsoleAssignment\bin\Debug\ConsoleAssignment.pdb
+C:\Users\Emma Jane\Desktop\ConsoleAssignment\ConsoleAssignment\obj\Debug\ConsoleAssignment.exe
+C:\Users\Emma Jane\Desktop\ConsoleAssignment\ConsoleAssignment\obj\Debug\ConsoleAssignment.pdb
+C:\Users\10204278\Desktop\ConsoleAssignment\ConsoleAssignment\ConsoleAssignment\bin\Debug\ConsoleAssignment.exe.config
+C:\Users\10204278\Desktop\ConsoleAssignment\ConsoleAssignment\ConsoleAssignment\obj\Debug\ConsoleAssignment.exe
+C:\Users\10204278\Desktop\ConsoleAssignment\ConsoleAssignment\ConsoleAssignment\obj\Debug\ConsoleAssignment.pdb
+C:\Users\10204278\Desktop\ConsoleAssignment\ConsoleAssignment\ConsoleAssignment\bin\Debug\ConsoleAssignment.exe
+C:\Users\10204278\Desktop\ConsoleAssignment\ConsoleAssignment\ConsoleAssignment\bin\Debug\ConsoleAssignment.pdb
+C:\Users\10204278\Desktop\ConsoleAssignment\ConsoleAssignment\ConsoleAssignment\obj\Debug\ConsoleAssignment.csprojResolveAssemblyReference.cache
+P:\052 OOP\Assignment\ConsoleAssignment Completed\ConsoleAssignment\ConsoleAssignment\bin\Debug\ConsoleAssignment.exe.config
+P:\052 OOP\Assignment\ConsoleAssignment Completed\ConsoleAssignment\ConsoleAssignment\obj\Debug\ConsoleAssignment.exe
+P:\052 OOP\Assignment\ConsoleAssignment Completed\ConsoleAssignment\ConsoleAssignment\obj\Debug\ConsoleAssignment.pdb
+P:\052 OOP\Assignment\ConsoleAssignment Completed\ConsoleAssignment\ConsoleAssignment\bin\Debug\ConsoleAssignment.exe
+P:\052 OOP\Assignment\ConsoleAssignment Completed\ConsoleAssignment\ConsoleAssignment\bin\Debug\ConsoleAssignment.pdb
+P:\052 OOP\Assignment\ConsoleAssignment Completed\ConsoleAssignment\ConsoleAssignment\obj\Debug\ConsoleAssignment.csprojResolveAssemblyReference.cache
+C:\Users\10204278\Desktop\ConsoleAssignment Completed\ConsoleAssignment\ConsoleAssignment\bin\Debug\ConsoleAssignment.exe.config
+C:\Users\10204278\Desktop\ConsoleAssignment Completed\ConsoleAssignment\ConsoleAssignment\obj\Debug\ConsoleAssignment.exe
+C:\Users\10204278\Desktop\ConsoleAssignment Completed\ConsoleAssignment\ConsoleAssignment\obj\Debug\ConsoleAssignment.pdb
+C:\Users\10204278\Desktop\ConsoleAssignment Completed\ConsoleAssignment\ConsoleAssignment\bin\Debug\ConsoleAssignment.exe
+C:\Users\10204278\Desktop\ConsoleAssignment Completed\ConsoleAssignment\ConsoleAssignment\bin\Debug\ConsoleAssignment.pdb
+C:\Users\10204278\Desktop\ConsoleAssignment Completed\ConsoleAssignment\ConsoleAssignment\obj\Debug\ConsoleAssignment.csprojResolveAssemblyReference.cache
+C:\Users\10204278\Desktop\B8IT052_EmmaJaneHeneghan_10204278\ConsoleAssignment_EmmaJaneHeneghan_10204278\ConsoleAssignment\bin\Debug\ConsoleAssignment.exe.config
+C:\Users\10204278\Desktop\B8IT052_EmmaJaneHeneghan_10204278\ConsoleAssignment_EmmaJaneHeneghan_10204278\ConsoleAssignment\obj\Debug\ConsoleAssignment.exe
+C:\Users\10204278\Desktop\B8IT052_EmmaJaneHeneghan_10204278\ConsoleAssignment_EmmaJaneHeneghan_10204278\ConsoleAssignment\obj\Debug\ConsoleAssignment.pdb
+C:\Users\10204278\Desktop\B8IT052_EmmaJaneHeneghan_10204278\ConsoleAssignment_EmmaJaneHeneghan_10204278\ConsoleAssignment\bin\Debug\ConsoleAssignment.exe
+C:\Users\10204278\Desktop\B8IT052_EmmaJaneHeneghan_10204278\ConsoleAssignment_EmmaJaneHeneghan_10204278\ConsoleAssignment\bin\Debug\ConsoleAssignment.pdb
+C:\Users\10204278\Desktop\B8IT052_EmmaJaneHeneghan_10204278\ConsoleAssignment_EmmaJaneHeneghan_10204278\ConsoleAssignment\obj\Debug\ConsoleAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Emma Jane\Desktop\B8IT052_EmmaJaneHeneghan_10204278\ConsoleAssignment_EmmaJaneHeneghan_10204278\ConsoleAssignment\bin\Debug\ConsoleAssignment.exe.config
+C:\Users\Emma Jane\Desktop\B8IT052_EmmaJaneHeneghan_10204278\ConsoleAssignment_EmmaJaneHeneghan_10204278\ConsoleAssignment\obj\Debug\ConsoleAssignment.exe
+C:\Users\Emma Jane\Desktop\B8IT052_EmmaJaneHeneghan_10204278\ConsoleAssignment_EmmaJaneHeneghan_10204278\ConsoleAssignment\obj\Debug\ConsoleAssignment.pdb
+C:\Users\Emma Jane\Desktop\B8IT052_EmmaJaneHeneghan_10204278\ConsoleAssignment_EmmaJaneHeneghan_10204278\ConsoleAssignment\bin\Debug\ConsoleAssignment.exe
+C:\Users\Emma Jane\Desktop\B8IT052_EmmaJaneHeneghan_10204278\ConsoleAssignment_EmmaJaneHeneghan_10204278\ConsoleAssignment\bin\Debug\ConsoleAssignment.pdb
+C:\Users\Emma Jane\Desktop\B8IT052_EmmaJaneHeneghan_10204278\ConsoleAssignment_EmmaJaneHeneghan_10204278\ConsoleAssignment\obj\Debug\ConsoleAssignment.csprojResolveAssemblyReference.cache
